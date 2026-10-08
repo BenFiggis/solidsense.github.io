@@ -16,9 +16,15 @@
 title: SolidSense
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+Take the guesswork out of pipeline deposits monitoring
+
+SolidSense is a new type of pipeline sensor that directly detects hydrates, waxes and other solids the moment they start to form.
+It is non-intrusive and installed inline, so it measures actual deposits in true conditions in real time.
+This allows operators to take preventative and corrective actions precisely when needed.
+
+Developed at the University of Western Australia, the sensor has been validated in the laboratory.
+We are now working with Worley to arrange trials with industry partners.
+
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
